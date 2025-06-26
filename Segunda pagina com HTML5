@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Curiosidades sobre Arceus o deus Pokémon.</h1>
+    <header>
+        <nav>
+            <ul>
+                <img src="arceus tarefa html.jpeg" alt="deus pokemon">
+            </ul>
+        </nav>
+</header>
+
+<main>
+    <section>
+        <h2>Seção 1 - O que é Arceus:</h2>
+        <p>Arceus é considerado como o criador do mundo Pokémon, ele é o mais poderoso de toda a franquia. Segundo os jogos, ele nasceu através de um ovo, antes de nada existir.</p>
+    </section>
+
+<section>
+        <h2>Seção 2 - Como o Arceus criou o universo:</h2>
+        <p>De acordo com a lenda do 12º Filme da franquia de pokémon, Arceus usou seus 1000 braços para construir o Universo Pokémon. Mas onde estão eles isso é um misterio.</p>
+</section>
+
+<section>
+    <h2>Seção 3 - Quanto ele pesa e qual e a altura dele?</h2>
+    <p>O Arceus pesa 320 Kg e mede 3 metro e vinte centímetros de altura.</p>
+</section>
+
+<from>
+    <label>O que achou : </label>
+    <input type="text" id="nome" name="nome">
+    <button type="submit">Enviar</button>
+     </from>
+</main>
+<footer>
+    <p>&copy; 2025 João Matheus - Todos os direitos reservados.</p>
+</footer>
+
+    
+</body>
+</html>
